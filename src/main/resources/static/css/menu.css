@@ -3,14 +3,10 @@
     box-sizing:  border-box;
 }
 
- 
-
 body {
     font-family: sans-serif;
     padding: 45px 20px 0px;
 }
-
- 
 
 .header {
     background-color: navy;
@@ -21,8 +17,6 @@ body {
     position: fixed;
 }
 
- 
-
 .nav {
     display: flex;
     justify-content: space-between;
@@ -30,14 +24,10 @@ body {
     margin: 0 auto;
 }
 
- 
-
 .nav-link {
     color: white;
     text-decoration: none;
 }
-
- 
 
 .logo {
     color: aquamarine;
@@ -47,15 +37,11 @@ body {
     line-height: 90px;
 }
 
- 
-
 .nav-menu {
     display: flex;
     margin-right: 40px;
     list-style: none;
 }
-
- 
 
 .nav-menu-item {
     font-size: 18px;
@@ -64,22 +50,16 @@ body {
     width: max-content;
 }
 
- 
-
 .nav-menu-link {
     padding: 8px 12px;
     border-radius: 10px;
 }
-
- 
 
 .nav-menu-link:hover {
     font-size: 22px;
     background-color: cyan;
     transition: 0.7s;
 }
-
- 
 
 .contenido {
     background-color: lavender;
@@ -91,8 +71,6 @@ body {
     overflow: auto;
     padding-left: 15px;
 }
-
- 
 
 .footer {
     background-color: black;
